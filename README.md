@@ -1,1 +1,1 @@
-1-[bash (curl -fsSL https://raw.githubusercontent.com/SoloPlayzDev/skyport-installer/refs/heads/main/install.sh)
+https://piston-data.mojang.com/v1/objects/64bb6d763bed0a9f1d632ec347938594144943ed/server.jar
